@@ -1,0 +1,22 @@
+{
+  "name": "mssiwnm.heroku",
+  "version": "0.0.0",
+  "description": "mssiwnm.heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "6"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mssiwnm/mssiwnm.heroku"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "mssiwnm",
+  "license": "MIT"
+}
