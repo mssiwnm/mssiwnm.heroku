@@ -1,1 +1,1 @@
-require('http').createServer((req, res) => res.end('hello ' + req.method + ' ' + req.url)).listen(process.env.PORT)
+require('http').createServer((req, res) => res.end('hello ' + req.method + ' ' + req.url)).listen(process.env.PORT || 3000)
